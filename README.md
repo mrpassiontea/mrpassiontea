@@ -35,5 +35,3 @@
 ### Testing
  ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-___
-![Mrpassiontea's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpassiontea)
