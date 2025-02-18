@@ -8,6 +8,10 @@
 🔐 Security<br/>
 🔌 Networking<br/>
 🌟 Leadership
+🌍 Language Learning!
+
+## Most Recent Project
+[Extra Practice](https://github.com/mrpassiontea/Extra-Practice) - A UserScript that injects practice buttons and introduces entire practice modes on the WaniKani website for those learning Japanese radicals and kanji.
 
 ## Tech Stack
 
